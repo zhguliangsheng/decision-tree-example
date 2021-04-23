@@ -1,0 +1,9 @@
+decision_tree.py 最终的分类算法，输出平均准确率图像
+decision_tree_nan_pro.py 缺失值处理四种方法的比较
+decision_tree_k_mean.py  k-means和自定义方法的比较
+Exasens.xlsx 原始数据表格
+
+由于每次运行的训练和测试数据都是随机得到的，每次的运行结果会稍有不同，但差距不大。
+
+注释里面放的代码是最终的分类算法。
+
